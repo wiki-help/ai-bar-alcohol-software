@@ -1,0 +1,35 @@
+# Jekyll configuration for GitHub Pages
+title: The Neat Profit Documentation
+description: >-
+  API documentation, integration guides, and technical resources for developers
+  using The Neat Profit bar inventory management software.
+baseurl: "/ai-beverage-software"
+url: "https://wiki-help.github.io/ai-beverage-software"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Author info for SEO
+author:
+  name: The Neat Profit
+  email: support@theneatprofit.com
+
+# Social links
+social:
+  name: The Neat Profit
+  links:
+    - https://theneatprofit.com
+
+# Defaults for all pages
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+# Exclude from processing
+exclude:
+  - .DS_Store
