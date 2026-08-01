@@ -70,7 +70,7 @@ Official SDKs and third-party libraries.
 
 - **[The Neat Profit Website](https://theneatprofit.com)** - Visit our main website for product information and to sign up
 - **[API Status](https://status.theneatprofit.com)** - Check the current status of API services
-- **[GitHub Repository](https://github.com/wiki-help/ai-beverage-software)** - View source code and report issues
+- **[GitHub Repository](https://github.com/wiki-help/ai-bar-alcohol-software)** - View source code and report issues
 - **[Support](https://theneatprofit.com/help)** - Get help with any questions or issues
 
 ## Need Help?

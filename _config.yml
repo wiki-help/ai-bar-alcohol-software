@@ -3,8 +3,8 @@ title: The Neat Profit Documentation
 description: >-
   API documentation, integration guides, and technical resources for developers
   using The Neat Profit bar inventory management software.
-baseurl: "/ai-beverage-software"
-url: "https://wiki-help.github.io/ai-beverage-software"
+baseurl: "/ai-bar-alcohol-software"
+url: "https://wiki-help.github.io/ai-bar-alcohol-software"
 theme: minima
 plugins:
   - jekyll-feed

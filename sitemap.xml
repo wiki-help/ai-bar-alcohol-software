@@ -1,61 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://wiki-help.github.io/ai-beverage-software/</loc>
+    <loc>https://wiki-help.github.io/ai-bar-alcohol-software/</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://wiki-help.github.io/ai-beverage-software/getting-started/</loc>
+    <loc>https://wiki-help.github.io/ai-bar-alcohol-software/getting-started/</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://wiki-help.github.io/ai-beverage-software/api/overview/</loc>
+    <loc>https://wiki-help.github.io/ai-bar-alcohol-software/api/overview/</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wiki-help.github.io/ai-beverage-software/api/authentication/</loc>
+    <loc>https://wiki-help.github.io/ai-bar-alcohol-software/api/authentication/</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wiki-help.github.io/ai-beverage-software/api/inventory/</loc>
+    <loc>https://wiki-help.github.io/ai-bar-alcohol-software/api/inventory/</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wiki-help.github.io/ai-beverage-software/api/pos/</loc>
+    <loc>https://wiki-help.github.io/ai-bar-alcohol-software/api/pos/</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wiki-help.github.io/ai-beverage-software/api/ordering/</loc>
+    <loc>https://wiki-help.github.io/ai-bar-alcohol-software/api/ordering/</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wiki-help.github.io/ai-beverage-software/api/analytics/</loc>
+    <loc>https://wiki-help.github.io/ai-bar-alcohol-software/api/analytics/</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wiki-help.github.io/ai-beverage-software/api/webhooks/</loc>
+    <loc>https://wiki-help.github.io/ai-bar-alcohol-software/api/webhooks/</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wiki-help.github.io/ai-beverage-software/integrations/pos/</loc>
+    <loc>https://wiki-help.github.io/ai-bar-alcohol-software/integrations/pos/</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>

@@ -222,7 +222,7 @@ Now that you're set up, explore our other documentation:
 Our developer support team is available:
 
 - **Email**: api@theneatprofit.com
-- **GitHub Issues**: [Report bugs and request features](https://github.com/wiki-help/ai-beverage-software/issues)
+- **GitHub Issues**: [Report bugs and request features](https://github.com/wiki-help/ai-bar-alcohol-software/issues)
 - **Documentation**: Browse our complete API reference
 
 ---

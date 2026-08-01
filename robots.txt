@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://wiki-help.github.io/ai-beverage-software/sitemap.xml
+Sitemap: https://wiki-help.github.io/ai-bar-alcohol-software/sitemap.xml
