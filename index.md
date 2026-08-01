@@ -56,20 +56,9 @@ Deep dive into specific features and capabilities.
 
 - **[Smart Ordering]({{ site.baseurl }}/features/smart-ordering/)** - Automate purchase orders with AI-powered recommendations.
 
-## SDKs & Libraries
-
-Official SDKs and third-party libraries.
-
-- **[JavaScript/TypeScript SDK]({{ site.baseurl }}/sdks/javascript/)** - Official Node.js and browser SDK.
-
-- **[Python SDK]({{ site.baseurl }}/sdks/python/)** - Official Python SDK for backend integrations.
-
-- **[Community Libraries]({{ site.baseurl }}/sdks/community/)** - Third-party libraries maintained by the community.
-
 ## Quick Links
 
 - **[The Neat Profit Website](https://theneatprofit.com)** - Visit our main website for product information and to sign up
-- **[API Status](https://status.theneatprofit.com)** - Check the current status of API services
 - **[GitHub Repository](https://github.com/wiki-help/ai-bar-alcohol-software)** - View source code and report issues
 - **[Support](https://theneatprofit.com/help)** - Get help with any questions or issues
 
